@@ -1,4 +1,4 @@
 # hello-world
 <h1>Test</h1>
 Git Tutorial
-![alt text](https://s-media-cache-ak0.pinimg.com/564x/06/d5/e0/06d5e04bba7268a17868f37ebc535ea8.jpg)
+![alt text](http://vignette3.wikia.nocookie.net/inuyasha/images/f/f3/Inuyasha-full-body.jpg/revision/latest?cb=20100630111347)
